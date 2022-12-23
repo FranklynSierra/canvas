@@ -10,6 +10,9 @@ let FlowFieldAnimation
 
 
 
+
+
+
 window.onload=function(){
    canvas=document.getElementById('canvas1');
     ctx=canvas.getContext('2d')
